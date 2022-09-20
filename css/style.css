@@ -1,0 +1,52 @@
+#header {
+  width: 100%;
+  height: 50px;
+  background-color: blanchedalmond;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+}
+
+#header-img {
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  float: right;
+}
+
+#nav-bar {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+
+#nav-bar a {
+  color: brown;
+  font-size: 1.5vw;
+  text-decoration: none;
+  margin-left: 1vw;
+}
+
+#nav-bar a :hover {
+  color: green;
+}
+
+.sec{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    max-height: 100vh;
+    padding-top: 50px;
+}
+
+#sec-moise{
+    background-color: aquamarine;
+}
+
+#sec-mohammad{
+    background-color: cadetblue;
+}
+
+#sec-contact{
+    background-color: coral;
+}
