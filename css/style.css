@@ -68,7 +68,7 @@
 }
 
 #form {
-  position: flex;
+  display: flex;
   width: 100%;
   height: auto;
   margin-top: 20%;
@@ -80,6 +80,7 @@
   width: 30%;
   height: 4vw;
   flex-grow: 4;
+  font-size: 18px;
 }
 
 #submit {
